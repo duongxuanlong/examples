@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Script\BaseObjectController\BaseObjectArray.cs">
+    <Files>
+      <File FileName="Assets\_Script\CameraController.cs" Line="30" Column="1" />
+      <File FileName="Assets\_Script\BaseObjectController\BaseObject.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\Utilities\DelegateManager.cs" Line="57" Column="56" />
+      <File FileName="Assets\_Script\Utilities\Constant.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\BaseObjectController\BaseObjectList.cs" Line="1" Column="1" />
+      <File FileName="Assets\_Script\BaseObjectController\BaseObjectArray.cs" Line="166" Column="5" />
+      <File FileName="Assets\_Script\QuestController\QuestManager.cs" Line="104" Column="3" />
+      <File FileName="Assets\_Script\PlayingProgress\PlayingProgress.cs" Line="43" Column="17" />
+      <File FileName="Assets\_Script\QuestController\QuestLoader.cs" Line="106" Column="33" />
+      <File FileName="Assets\_Script\GameManager.cs" Line="14" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\Prj\Matcher\Matcher\Assets\_Script\BaseObjectController\BaseObject.cs" line="202" column="22" />
+      <Breakpoint file="D:\Prj\Matcher\Matcher\Assets\_Script\PlayingProgress\PlayingProgress.cs" line="58" column="24" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

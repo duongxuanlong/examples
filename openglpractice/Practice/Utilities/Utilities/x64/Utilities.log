@@ -1,0 +1,35 @@
+﻿Build started 10/30/2018 5:02:49 PM.
+     1>Project "D:\Me\Study\OpenGLes-master\Practice\Utilities\Utilities\Utilities.vcxproj" on node 2 (Rebuild target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../3rdParty/glad/include /I../../../3rdParty/glm /I../../../3rdParty/assimp /I../../../3rdParty/glfw/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\\" /Fd"x64\vc120.pdb" /Gd /TC /analyze- /errorReport:prompt ..\..\..\3rdParty\glad\src\glad.c
+         glad.c
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I../../../3rdParty/glad/include /I../../../3rdParty/glm /I../../../3rdParty/assimp /I../../../3rdParty/glfw/include /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\\" /Fd"x64\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt Camera.cpp GLContext.cpp GLShader.cpp Mesh.cpp Model.cpp
+         Model.cpp
+     1>d:\me\study\opengles-master\practice\utilities\utilities\mesh.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+     1>d:\me\study\opengles-master\3rdparty\assimp\assimp\metadata.h(152): warning C4800: 'void *' : forcing value to bool 'true' or 'false' (performance warning)
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(15): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(39): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(45): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(56): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(89): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(92): warning C4018: '<' : signed/unsigned mismatch
+     1>d:\me\study\opengles-master\practice\utilities\utilities\model.cpp(114): warning C4018: '<' : signed/unsigned mismatch
+         Mesh.cpp
+     1>d:\me\study\opengles-master\practice\utilities\utilities\mesh.h(4): warning C4067: unexpected tokens following preprocessor directive - expected a newline
+         GLShader.cpp
+         GLContext.cpp
+         Camera.cpp
+         Generating Code...
+       Lib:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\Lib.exe /OUT:"D:\Me\Study\OpenGLes-master\Practice\Model\x64\Utilities.lib" "../../../3rdParty/assimp_lib/assimp-vc140-mt.lib" /LIBPATH:../../../3rdParty/assimp_lib /NOLOGO x64\glad.obj
+         x64\Camera.obj
+         x64\GLContext.obj
+         x64\GLShader.obj
+         x64\Mesh.obj
+         x64\Model.obj
+         Utilities.vcxproj -> D:\Me\Study\OpenGLes-master\Practice\Model\x64\Utilities.lib
+     1>Done Building Project "D:\Me\Study\OpenGLes-master\Practice\Utilities\Utilities\Utilities.vcxproj" (Rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:03.73
